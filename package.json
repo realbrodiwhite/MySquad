@@ -6,7 +6,7 @@
     "@strapi/plugin-documentation": "^4.0.5",
     "@strapi/plugin-graphql": "^4.0.5",
     "@strapi/plugin-i18n": "^4.15.0",
-    "@strapi/plugin-users-permissions": "^4.15.0",
+    "@strapi/plugin-users-permissions": "^5.0.0",
     "@strapi/strapi": "4.20.0",
     "@surunnuage/strapi-plugin-expo-notifications": "^2.0.4",
     "better-sqlite3": "8.6.0",
